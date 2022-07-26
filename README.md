@@ -1,4 +1,4 @@
-# knn-naive-bayes-decision-tree-algorithms
-using scikit-learn to analyze data with knn, naive-bayes and decision tree algorithms
+# knn & naive-bayes & decision-tree algorithms
+using scikit-learn to data analysis (knn, naive-bayes and decision tree algorithms)
 
-here is my code and my dataset which collects the data of a game called Dota2 and calculates the probability of win in the game.
+the dataset includes some information about a game named Dota2 and the code calculates the probability of win in each game.
